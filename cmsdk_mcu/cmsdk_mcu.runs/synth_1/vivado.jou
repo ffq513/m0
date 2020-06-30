@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sun Jun 28 10:39:27 2020
+# Process ID: 18956
+# Current directory: C:/Users/Home/Desktop/cmsdk_mcu/cmsdk_mcu.runs/synth_1
+# Command line: vivado.exe -log cmsdk_mcu.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source cmsdk_mcu.tcl
+# Log file: C:/Users/Home/Desktop/cmsdk_mcu/cmsdk_mcu.runs/synth_1/cmsdk_mcu.vds
+# Journal file: C:/Users/Home/Desktop/cmsdk_mcu/cmsdk_mcu.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source cmsdk_mcu.tcl -notrace

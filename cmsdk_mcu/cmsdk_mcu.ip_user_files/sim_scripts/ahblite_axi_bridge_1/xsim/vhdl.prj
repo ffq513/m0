@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../ip/ahblite_axi_bridge_1/sim/ahblite_axi_bridge_1.vhd" \
+
+nosort

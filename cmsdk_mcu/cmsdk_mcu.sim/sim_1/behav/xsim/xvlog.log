@@ -1,0 +1,156 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module blk_mem_gen_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/CORTEXM0INTEGRATION.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CORTEXM0INTEGRATION
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/ahb_rom.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ahb_rom
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_ahb_bitband.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_ahb_bitband
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_ahb_cs_rom_table.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_ahb_cs_rom_table
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_ahb_default_slave.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_ahb_default_slave
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_ahb_gpio.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_ahb_gpio
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_ahb_master_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_ahb_master_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_ahb_slave_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_ahb_slave_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_ahb_to_apb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_ahb_to_apb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_ahb_to_iop.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_ahb_to_iop
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_apb_dualtimers.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_apb_dualtimers
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_apb_dualtimers_frc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_apb_dualtimers_frc
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_apb_slave_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_apb_slave_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_apb_subsystem_m0ds.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_apb_subsystem_m0ds
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_apb_test_slave.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_apb_test_slave
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_apb_timer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_apb_timer
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_apb_uart.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_apb_uart
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_apb_watchdog.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_apb_watchdog
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_apb_watchdog_frc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_apb_watchdog_frc
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/testbench/cmsdk_clkreset.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_clkreset
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_clock_gate.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_clock_gate
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_iop_gpio.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_iop_gpio
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_irq_sync.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_irq_sync
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_mcu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_mcu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_mcu_addr_decode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_mcu_addr_decode
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_mcu_clkctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_mcu_clkctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_mcu_pin_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_mcu_pin_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_mcu_stclkctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_mcu_stclkctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_mcu_sysctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_mcu_sysctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cmsdk_mcu_system.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_mcu_system
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/testbench/cmsdk_uart_capture.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cmsdk_uart_capture
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/cortexm0ds_logic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cortexm0ds_logic
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_apb_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_apb_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ahbm_rd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ahbm_rd
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ahbm_timeout.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ahbm_timeout
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ahbm_wr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ahbm_wr
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_arbiter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_arbiter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ch.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ch
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ch_calc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ch_calc
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ch_calc_addr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ch_calc_addr
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ch_calc_joint.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ch_calc_joint
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ch_calc_size.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ch_calc_size
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ch_empty.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ch_empty
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ch_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ch_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ch_fifo_ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ch_fifo_ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ch_fifo_ptr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ch_fifo_ptr
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ch_offsets.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ch_offsets
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ch_outs.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ch_outs
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ch_periph_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ch_periph_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ch_rd_slicer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ch_rd_slicer
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ch_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ch_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ch_reg_size.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ch_reg_size
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ch_remain.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ch_remain
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ch_wr_slicer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ch_wr_slicer
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_channels.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_channels
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_channels_apb_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_channels_apb_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_channels_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_channels_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_ctrl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_ctrl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_core0_wdt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_core0_wdt
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_dual_core.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_dual_core
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_reg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_reg
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/dma_ahb32_reg_core0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dma_ahb32_reg_core0
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/prgen_delay.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prgen_delay
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/prgen_demux8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prgen_demux8
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/prgen_fifo.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prgen_fifo
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/prgen_joint_stall.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prgen_joint_stall
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/prgen_min2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prgen_min2
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/prgen_min3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prgen_min3
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/prgen_mux8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prgen_mux8
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/prgen_or8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prgen_or8
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/prgen_rawstat.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prgen_rawstat
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/prgen_scatter8_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prgen_scatter8_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/prgen_stall.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prgen_stall
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu/prgen_swap_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prgen_swap32

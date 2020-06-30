@@ -1,0 +1,2 @@
+boot_flash.v,verilog,xil_defaultlib,../../../ip/boot_flash/sim/boot_flash.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

@@ -1,0 +1,95 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "C:/Xilinx/Vivado/2017.3/data/xilinx_vip/include" \
+"../../../../cmsdk_mcu.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v" \
+"../../../../cmsdk_mcu/CORTEXM0INTEGRATION.v" \
+"../../../../cmsdk_mcu/ahb_rom.v" \
+"../../../../cmsdk_mcu/cmsdk_ahb_bitband.v" \
+"../../../../cmsdk_mcu/cmsdk_ahb_cs_rom_table.v" \
+"../../../../cmsdk_mcu/cmsdk_ahb_default_slave.v" \
+"../../../../cmsdk_mcu/cmsdk_ahb_gpio.v" \
+"../../../../cmsdk_mcu/cmsdk_ahb_master_mux.v" \
+"../../../../cmsdk_mcu/cmsdk_ahb_slave_mux.v" \
+"../../../../cmsdk_mcu/cmsdk_ahb_to_apb.v" \
+"../../../../cmsdk_mcu/cmsdk_ahb_to_iop.v" \
+"../../../../cmsdk_mcu/cmsdk_apb_dualtimers.v" \
+"../../../../cmsdk_mcu/cmsdk_apb_dualtimers_frc.v" \
+"../../../../cmsdk_mcu/cmsdk_apb_slave_mux.v" \
+"../../../../cmsdk_mcu/cmsdk_apb_subsystem_m0ds.v" \
+"../../../../cmsdk_mcu/cmsdk_apb_test_slave.v" \
+"../../../../cmsdk_mcu/cmsdk_apb_timer.v" \
+"../../../../cmsdk_mcu/cmsdk_apb_uart.v" \
+"../../../../cmsdk_mcu/cmsdk_apb_watchdog.v" \
+"../../../../cmsdk_mcu/cmsdk_apb_watchdog_frc.v" \
+"../../../../testbench/cmsdk_clkreset.v" \
+"../../../../cmsdk_mcu/cmsdk_clock_gate.v" \
+"../../../../cmsdk_mcu/cmsdk_iop_gpio.v" \
+"../../../../cmsdk_mcu/cmsdk_irq_sync.v" \
+"../../../../cmsdk_mcu/cmsdk_mcu.v" \
+"../../../../cmsdk_mcu/cmsdk_mcu_addr_decode.v" \
+"../../../../cmsdk_mcu/cmsdk_mcu_clkctrl.v" \
+"../../../../cmsdk_mcu/cmsdk_mcu_pin_mux.v" \
+"../../../../cmsdk_mcu/cmsdk_mcu_stclkctrl.v" \
+"../../../../cmsdk_mcu/cmsdk_mcu_sysctrl.v" \
+"../../../../cmsdk_mcu/cmsdk_mcu_system.v" \
+"../../../../testbench/cmsdk_uart_capture.v" \
+"../../../../cmsdk_mcu/cortexm0ds_logic.v" \
+"../../../../cmsdk_mcu/dma_ahb32.v" \
+"../../../../cmsdk_mcu/dma_ahb32_apb_mux.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ahbm_rd.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ahbm_timeout.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ahbm_wr.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_arbiter.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ch.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ch_calc.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ch_calc_addr.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ch_calc_joint.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ch_calc_size.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ch_empty.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ch_fifo.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ch_fifo_ctrl.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ch_fifo_ptr.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ch_offsets.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ch_outs.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ch_periph_mux.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ch_rd_slicer.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ch_reg.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ch_reg_size.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ch_remain.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ch_wr_slicer.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_channels.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_channels_apb_mux.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_channels_mux.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_ctrl.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_top.v" \
+"../../../../cmsdk_mcu/dma_ahb32_core0_wdt.v" \
+"../../../../cmsdk_mcu/dma_ahb32_dual_core.v" \
+"../../../../cmsdk_mcu/dma_ahb32_reg.v" \
+"../../../../cmsdk_mcu/dma_ahb32_reg_core0.v" \
+"../../../../cmsdk_mcu/prgen_delay.v" \
+"../../../../cmsdk_mcu/prgen_demux8.v" \
+"../../../../cmsdk_mcu/prgen_fifo.v" \
+"../../../../cmsdk_mcu/prgen_joint_stall.v" \
+"../../../../cmsdk_mcu/prgen_min2.v" \
+"../../../../cmsdk_mcu/prgen_min3.v" \
+"../../../../cmsdk_mcu/prgen_mux8.v" \
+"../../../../cmsdk_mcu/prgen_or8.v" \
+"../../../../cmsdk_mcu/prgen_rawstat.v" \
+"../../../../cmsdk_mcu/prgen_scatter8_1.v" \
+"../../../../cmsdk_mcu/prgen_stall.v" \
+"../../../../cmsdk_mcu/prgen_swap_32.v" \
+
+sv xil_defaultlib  --include "C:/Xilinx/Vivado/2017.3/data/xilinx_vip/include" \
+"../../../../cmsdk_mcu/ahb3lite_pkg.sv" \
+"../../../../cmsdk_mcu/ahb3lite_interconnect.sv" \
+"../../../../cmsdk_mcu/ahb3lite_interconnect_master_port.sv" \
+"../../../../cmsdk_mcu/ahb3lite_interconnect_slave_port.sv" \
+
+verilog xil_defaultlib  --include "C:/Xilinx/Vivado/2017.3/data/xilinx_vip/include" \
+"../../../../testbench/tb_cmsdk_mcu.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

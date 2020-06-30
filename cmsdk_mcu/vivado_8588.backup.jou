@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2017.3 (64-bit)
+# SW Build 2018833 on Wed Oct  4 19:58:22 MDT 2017
+# IP Build 2016188 on Wed Oct  4 21:52:56 MDT 2017
+# Start of session at: Wed Jan  2 20:13:04 2019
+# Process ID: 8588
+# Current directory: C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12748 C:\Users\Viet Nguyen\Documents\project_vivado\cmsdk_mcu\cmsdk_mcu.xpr
+# Log file: C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/vivado.log
+# Journal file: C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Viet Nguyen/Documents/project_vivado/cmsdk_mcu/cmsdk_mcu.xpr}
+update_compile_order -fileset sources_1
+synth_design -rtl -name rtl_1
+launch_simulation
+source tb_cmsdk_mcu.tcl
+close_sim
